@@ -2,5 +2,5 @@
 
 Hey devs!
 
-David here, I'm exploring programming and trying to know how to make develop websites.
+David here, I'm exploring programming and trying to know how to make websites.
 I'm a business student, right now.
